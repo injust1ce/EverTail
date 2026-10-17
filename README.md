@@ -42,7 +42,7 @@ Unlike many traditional clipboard tools that use low-level keyboard hooks or sim
 
 \### Option 1: Portable Executable (Recommended)
 
-1\. Go to the \[\*\*Releases\*\*](../../releases) page and download the latest `EverTail.zip` (или `EverTail.exe`).
+1\. 1. Go to the [**Releases**](https://github.com/injust1ce/EverTail/releases) page and download the latest `EverTail.zip` (или `EverTail.exe`).
 
 2\. Extract it to any folder and run \*\*`EverTail.exe`\*\*.
 
