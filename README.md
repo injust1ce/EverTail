@@ -29,7 +29,10 @@ Unlike many traditional clipboard tools that use low-level keyboard hooks or sim
 \* 🌐 \*\*Multi-language:\*\* Built-in instant switch between \*\*English\*\* and \*\*Russian\*\* (`EN` / `RU`).
 
 \* 🔊 \*\*Sound Feedback:\*\* Optional audio notifications on copy actions (can be toggled in settings).
+## 💬 Feedback & Community
 
+Have feedback, feature requests, or bug reports? 
+Join the discussion on Reddit: [**r/EverTailFeedback on Reddit**](https://www.reddit.com/r/EverTailFeedback/)
 
 
 \---
